@@ -1,0 +1,39 @@
+body {
+  /*background: #dedede;*/
+  font-family: Arial, 'Helvetica Neue', sans-serif;
+}
+.container {
+  width: 965px;
+  margin: 0 auto 0  auto;
+}
+h1 {
+  font-size: 32px;
+}
+p {
+  font-size: 12px;
+}
+img {
+  width: 100%;
+}
+.clear {
+  clear: both;
+}
+/* color scheme */
+.blue {
+  color: #363d98;
+}
+.gray {
+  color: #dbd8d7;
+}
+.bg-gray {
+  background: #ccc;
+}
+.bg-blue {
+  background: #363d98;
+}
+/*article {
+  overflow: hidden;
+}*/
+.clear {
+  clear: both;
+}
